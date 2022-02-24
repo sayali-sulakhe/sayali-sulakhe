@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayali-sulakhe
 - 👀 I’m interested in ML,AI,Data Science
-- 🌱 I’m currently learning Btech CSE (Third Year)
+- 🌱 I’m currently learning Btech CSE (Third Year) from MIT-WPU , Pune.
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me sayalisulakhe03@gmail.com
 
