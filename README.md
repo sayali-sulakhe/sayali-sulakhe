@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayali-sulakhe
-- 👀 I’m interested in ML,AI,Data Science
-- 🌱 I’m currently learning Btech CSE (Final Year) from MIT-WPU , Pune.
-- 📫 How to reach me sayalisulakhe03@gmail.com
+- 👀 I’m interested in PYTHON,HTML,CSS,JAVASCRIPT,ML.
+- 🌱 I’m currently Btech CSE Graduate from MIT-WPU , Pune.
+- 📫 How to reach me saylisulakhe@gmail.com
 
 <!---
 sayali-sulakhe/sayali-sulakhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
