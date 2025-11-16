@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayali-sulakhe
-- 👀 I’m interested in PYTHON,ML, DL, AI.
+- 👀 I’m interested in bulding products/services using LLM(foundation) models.
 - 🌱 I’m currently working as an AI Engineer.
 - 📫 How to reach me sayalisulakhe03@gmail.com
 
